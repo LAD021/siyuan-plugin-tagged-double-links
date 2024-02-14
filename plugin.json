@@ -1,8 +1,8 @@
 {
-  "name": "plugin-sample-vite-svelte",
-  "author": "frostime",
+  "name": "siyuan-plugin-tagged-double-links",
+  "author": "LAD021",
   "url": "https://github.com/siyuan-note/plugin-sample-vite-svelte",
-  "version": "0.3.2",
+  "version": "0.0.1",
   "minAppVersion": "2.12.1",
   "backends": [
     "windows",
